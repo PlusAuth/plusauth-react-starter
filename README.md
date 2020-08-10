@@ -16,8 +16,8 @@ Before running the project, you must first follow these steps:
 2. Navigate to `Clients` tab and create a client of type `Single Page Application`.
 3. Go to details page of the client that you've just created and set the following fields as:
 
-- Redirect Uris: http://localhost:3000/signin-callback.html, http://localhost:3000/silent-renew.html
-- Post Logout Redirect Uris: http://localhost:3000/
+- Redirect Uris: `http://localhost:3000/signin-callback.html`, `http://localhost:3000/silent-renew.html`
+- Post Logout Redirect Uris: `http://localhost:3000`
 
 Finally write down your Client Id for server configuration
 
