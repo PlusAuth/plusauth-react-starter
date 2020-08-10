@@ -12,7 +12,7 @@ This is a very simple React project demonstrating basic authentication flows suc
 
 Before running the project, you must first follow these steps:
 
-1. Create a Plusauth account and a tenant at https://dashboard.plusauth.com
+1. Create a Plusauth account and a tenant at [PlusAuth Dashboard](https://dashboard.plusauth.com)
 2. Navigate to `Clients` tab and create a client of type `Single Page Application`.
 3. Go to details page of the client that you've just created and set the following fields as:
 
